@@ -10,4 +10,8 @@ project/boot/
 project/plugins/project/
 
 # Scala-IDE specific
+.idea*
+*.iml
+logs
+
 .scala_dependencies
